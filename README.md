@@ -1,7 +1,7 @@
-Vixey Foxwish Douglas|<br>
-Such Life Developer|<br>
-RCOS: Rensselaer Center for Open Source|<br>
-Spring 2024 and Fall 2025|<br>
+Vixey Foxwish Douglas |<br>
+Such Life Developer |<br>
+RCOS: Rensselaer Center for Open Source |<br>
+Spring 2024 and Fall 2025 |<br>
 <br>
 My Spring 2024 art asset contributions were the Human NPC sprites available here
 in the GitHub repository belonging to the lead project owner, Gabe Dellario.
