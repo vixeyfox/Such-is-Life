@@ -26,6 +26,6 @@ https://github.com/gaberdell/SuchLife3.0/tree/vixey-branch/Assets/Art
   stick, spiky stick, spear,
   flint, pickaxe, ladder<br>
 <br>Enemy creature artwork:<br>
-  bat, chicken, bunny, fox
+  bat, chicken, bunny, fox,
   fish, shark
 
