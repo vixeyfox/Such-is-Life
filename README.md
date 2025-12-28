@@ -4,7 +4,7 @@ RCOS: Rensselaer Center for Open Source <br>
 Spring 2024 and Fall 2025               <br>
 <br>
 My Spring 2024 art asset contributions were the Human NPC sprites available here
-in the GitHub repository belonging to the lead project owner, Gabe Dellario.
+in the GitHub repository belonging to the lead project owner, Gabe Dellario
 https://github.com/gaberdell/RCOSLife2.0GameProject/tree/vixey_branch/Such%20Life/Assets/Sprite/NPC%201
 and also stored in my own Such-is-Life repository. I created 32 unique sprites
 (4 walkcycle poses in 8 directions) for each of 6 human Non-Player Characters 
