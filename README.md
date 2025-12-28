@@ -14,18 +14,18 @@ are known as the builder, chef, guard, innkeeper, lumberjack, and miner.
 My Fall 2025 art asset contributions included items, tilesets, and enemy creature designs.
 found in the GitHub repository belonging to the project owner as well as my own repository.
 https://github.com/gaberdell/SuchLife3.0/tree/vixey-branch/Assets/Art
-Repeating tile artwork
-  Dungeon floor and walls
-  Repeating masonry
-  Retractable spike
-  Bottomless pit floor and walls
+Repeating tile artwork:
+  Dungeon floor and walls,
+  Repeating masonry,
+  Retractable spike,
+  Bottomless pit floor and walls,
   Grass tile
-Item artwork
-  potato, tomato, tomato hat
-  bandage, cloth, healing potion, med kit
-  stick, spiky stick, spear
+Item artwork:
+  potato, tomato, tomato hat,
+  bandage, cloth, healing potion, med kit,
+  stick, spiky stick, spear,
   flint, pickaxe, ladder
-Enemy creature artwork
+Enemy creature artwork:
   bat, chicken, bunny, fox
   fish, shark
 
